@@ -2,5 +2,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/harnessproj/harnesscd-example-apps
+    repoURL: https://github.com/skumarpenugonda/harnesscd-example-apps.git
     targetRevision: HEAD
