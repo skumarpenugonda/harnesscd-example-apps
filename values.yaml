@@ -1,6 +1,6 @@
 image:
   registry: docker.io
   repository: bitnami/nginx
-  tag: 1.26.1-debian-12-r0
+  tag: 1.27-debian-12
   digest: ""
 replicaCount: 1
